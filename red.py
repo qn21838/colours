@@ -1,2 +1,2 @@
-print("red")
+print("scarlet")
 
